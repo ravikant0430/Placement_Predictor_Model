@@ -1,1 +1,1 @@
-Here is the data about placement and the code for prediction of placement and salary with Linear Regression and Logistic Regression Model.
+This is the Machine Learning Model based on Linear Regression and Logistic Regression Algorithm for predicting the Placement and Salary. 
